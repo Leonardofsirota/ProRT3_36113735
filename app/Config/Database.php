@@ -29,7 +29,7 @@ class Database extends Config
         'hostname' => 'localhost',
         'username' => 'root',
         'password' => '',
-        'database' => 'Fleitas_L',
+        'database' => 'fleitas_l',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,
